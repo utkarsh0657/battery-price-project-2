@@ -19,7 +19,7 @@ This is a Flask app that scrapes the price of a lithium-ion battery from a websi
 #### Clone the repository to your local machine
 
 ```bash
-git clone https://github.com/chetan-droid/Price-web-scrape.git
+git clone https://github.co/utkarsh-droid/Price-web-scrape.git
 ```
 
 #### Create Virtutal environment
@@ -71,5 +71,5 @@ python build.py
 
 ## Credits
 
-This project is created by Chetan Kumar for assessment purpose.
+This project is created by Utkarsh Srivastava for assessment purpose.
 
